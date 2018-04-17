@@ -1,0 +1,18 @@
+[
+  {
+    "id": "44750b3d-a19e-48bf-9864-ccb2c74a74bb",
+    "email": "haduyenhoa@yahoo.com.vn",
+    "password_hash": "$2a$10$2YmoWx5d8mOOI6P7iGZFgufJArzLCrwPVodj9N.itF.2hApKb0TVG",
+    "provider_credentials": [
+      {
+        "id": "1bc47385-4800-4a09-8c41-8946d1d50036",
+        "email": "haduyenhoa@yahoo.com.vn",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "c5s1bHfTv8aYvIX0tsig5tete+MljvmMzqcFu8VBdhJ2RZuWbflIQaZoIBRt\nG/wYTX2Zy5F1CpoP5siahUZz7Q==\n"
+      }
+    ]
+  }
+]
